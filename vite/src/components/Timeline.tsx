@@ -7,7 +7,7 @@ export const Timeline = () => {
         <TimelineItem
           year={"2010"}
           title={"IDK"}
-          duration={"a long time"}
+          duration={"a long time lol"}
           details={
             "My humble attempt at building my version of the digital world one step at a time by documenting my coding journey and creating software engineering and computer science content to help those coming behind me"
           }
