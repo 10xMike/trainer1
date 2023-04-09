@@ -5,7 +5,7 @@ export const Timeline = () => {
     <section className="flex flex-col md:flex-row justify-center my-20 ">
       <div className="w-full md:w-7/12">
         <TimelineItem
-          year={"2010"}
+          year={"2020"}
           title={"IDK"}
           duration={"a long time lol"}
           details={
